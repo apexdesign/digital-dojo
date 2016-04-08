@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuBuilder.js">
+    <Files>
+      <File FileName="Assets\Scripts\HandTracker.js" Line="120" Column="3" />
+      <File FileName="Assets\Scripts\BoneColor.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\tutorialScreen.js" Line="62" Column="38" />
+      <File FileName="Assets\Scripts\MenuBuilder.js" Line="62" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

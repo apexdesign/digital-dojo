@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{E6D0B708-B43E-FE7D-912F-4FD09E073FAF}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_5_0;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_WIN;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\BoneColor.js" />
+     <Compile Include="Assets\Scripts\BoneColor_BackUp.js" />
+     <Compile Include="Assets\Scripts\Debug_text_L_Elbow.js" />
+     <Compile Include="Assets\Scripts\Debug_text_L_Knee.js" />
+     <Compile Include="Assets\Scripts\Debug_text_R_Elbow.js" />
+     <Compile Include="Assets\Scripts\Debug_text_R_Knee.js" />
+     <Compile Include="Assets\Scripts\Feedback_txt.js" />
+     <Compile Include="Assets\Scripts\HandTracker.js" />
+     <Compile Include="Assets\Scripts\Lessons_Script.js" />
+     <Compile Include="Assets\Scripts\MenuBtn_Script.js" />
+     <Compile Include="Assets\Scripts\MenuBtn_TextScript.js" />
+     <Compile Include="Assets\Scripts\MenuBuilder.js" />
+     <Compile Include="Assets\Scripts\Spinnerz.js" />
+     <Compile Include="Assets\Scripts\cameraOrbit.js" />
+     <Compile Include="Assets\Scripts\cornerIcon_Script.js" />
+     <Compile Include="Assets\Scripts\progressBarAnimate.js" />
+     <Compile Include="Assets\Scripts\timerArray.js" />
+     <Compile Include="Assets\Scripts\tutorialImgSwap.js" />
+     <Compile Include="Assets\Scripts\tutorialScreen.js" />
+     <None Include="Assets\Standard Assets\Skyboxes\skybox info.txt" />
+ <Reference Include="OpenNI.Net">
+ <HintPath>Assets\Standard Assets\CSharp_Scripts\OpenNI.Net.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{84742B2B-87CF-DC0D-96B3-99F6D370C67D}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

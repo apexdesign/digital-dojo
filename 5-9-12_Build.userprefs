@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuBtn_Script.js">
+    <Files>
+      <File FileName="Assets\Scripts\ThreeDGuiScript.js" Line="17" Column="20" />
+      <File FileName="Assets\Scripts\MenuBtn_Script.js" Line="51" Column="37" />
+      <File FileName="Assets\Scripts\MenuBuilder.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\tutorialScreen.js" Line="7" Column="15" />
+      <File FileName="Assets\Scripts\timerArray.js" Line="101" Column="41" />
+      <File FileName="Assets\Scripts\MenuBtn_TextScript.js" Line="43" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

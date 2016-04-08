@@ -1,0 +1,6 @@
+Dev Notes:
+
+Feb. 2nd (Ground Hog Day)
+- Moved all of the C# scripts from a folder called 'Scripts' within the OpenNI folder, to a subfolder of 'Standard Assets' that I titled "CSharp_Scripts"
+
+- Changed two variables in OpenNISingleSkeletonController called IsTracking and userID to public static vars and I was able to reference IsTracking in the GUIScript.js

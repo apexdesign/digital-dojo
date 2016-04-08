@@ -1,0 +1,111 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.8527]
+    Renderer: NVIDIA GeForce GTX 560
+    Vendor:   NVIDIA
+    VRAM:     2014 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\OpenNI.Net.dll (this message is harmless)
+Loading C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\OpenNI.Net.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\mike\Desktop\4-19-12_Build_v02\testBuild_Data\Managed\Boo.Lang.dll (this message is harmless)
+Initing OpenNI
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+OpenNIContext:Awake() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Standard Assets\CSharp_Scripts\OpenNIContext.cs:102)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+
+Hovering...
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+timerArray:hoverStartTimer() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\timerArray.js:92)
+MenuBtn_Script:Update() (at C:\Users\mike\Desktop\4-19-12_Build_v02\Assets\Scripts\MenuBtn_Script.js:44)
+ 
+(Filename: C Line: 0)
+

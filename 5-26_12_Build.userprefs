@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\progressBarAnimate.js">
+    <Files>
+      <File FileName="Assets\Scripts\HandTracker.js" Line="131" Column="4" />
+      <File FileName="Assets\Scripts\tutorialScreen.js" Line="62" Column="7" />
+      <File FileName="Assets\Scripts\MenuBuilder.js" Line="21" Column="24" />
+      <File FileName="Assets\Scripts\timerArray.js" Line="77" Column="4" />
+      <File FileName="Assets\Scripts\MenuBtn_Script.js" Line="6" Column="72" />
+      <File FileName="Assets\Scripts\BoneColor.js" Line="189" Column="5" />
+      <File FileName="Assets\Scripts\MenuBtn_TextScript.js" Line="13" Column="41" />
+      <File FileName="Assets\Scripts\progressBarAnimate.js" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\tutorialImgSwap.js" Line="46" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

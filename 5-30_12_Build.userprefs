@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\timerArray.js">
+    <Files>
+      <File FileName="Assets\Scripts\MenuBtn_Script.js" Line="86" Column="5" />
+      <File FileName="Assets\Scripts\MenuBuilder.js" Line="41" Column="12" />
+      <File FileName="Assets\Scripts\MenuBtn_TextScript.js" Line="20" Column="21" />
+      <File FileName="Assets\Scripts\cornerIcon_Script.js" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\timerArray.js" Line="114" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

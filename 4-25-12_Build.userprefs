@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\tutorialScreen.js">
+    <Files>
+      <File FileName="Assets\Scripts\timerArray.js" Line="120" Column="1" />
+      <File FileName="Assets\Scripts\ThreeDGuiScript.js" Line="20" Column="5" />
+      <File FileName="Assets\Scripts\tutorialScreen.js" Line="52" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

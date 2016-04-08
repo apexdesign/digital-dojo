@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Spinnerz.js">
+    <Files>
+      <File FileName="Assets\Scripts\ThreeDGuiScript.js" Line="27" Column="30" />
+      <File FileName="Assets\Scripts\whichLvlScrpt.js" Line="17" Column="4" />
+      <File FileName="Assets\Scripts\Timer.js" Line="21" Column="1" />
+      <File FileName="Assets\Scripts\DemoCountDownScript.js" Line="25" Column="3" />
+      <File FileName="Assets\Scripts\HandTracker.js" Line="26" Column="50" />
+      <File FileName="Assets\Scripts\animateCharacterScrpt.js" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\Spinnerz.js" Line="44" Column="7" />
+      <File FileName="Assets\Scripts\navTimer.js" Line="21" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

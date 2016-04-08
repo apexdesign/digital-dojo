@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DemoCountDownScript.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\CSharp_Scripts\OpenNISingleSkeletonController.cs" Line="114" Column="6" />
+      <File FileName="Assets\Scripts\HandTracker.js" Line="6" Column="13" />
+      <File FileName="Assets\Scripts\ThreeDGuiScript.js" Line="32" Column="51" />
+      <File FileName="Assets\Scripts\Timer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DemoCountDownScript.js" Line="19" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

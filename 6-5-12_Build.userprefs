@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\tutorialScreen.js">
+    <Files>
+      <File FileName="Assets\Scripts\tutorialScreen.js" Line="156" Column="16" />
+      <File FileName="Assets\Scripts\MenuBtn_Script.js" Line="41" Column="5" />
+      <File FileName="Assets\Scripts\Feedback_txt.js" Line="20" Column="2" />
+      <File FileName="Assets\Scripts\timerArray.js" Line="151" Column="35" />
+      <File FileName="Assets\Scripts\progressBarAnimate.js" Line="27" Column="30" />
+      <File FileName="Assets\Scripts\MenuBuilder.js" Line="44" Column="1" />
+      <File FileName="Assets\Scripts\MenuBtn_TextScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cornerIcon_Script.js" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
